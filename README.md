@@ -21,5 +21,11 @@
 
 <h1>Certifications</h1>
 <ul>
-<li>CodePath - Advance Codepath Technical Interview Prep</li>
+<li>CodePath - Advance Technical Interview Prep</li>
+<li>JP Morgan Chase - Software Engineering Job Simulation</li>
+<li>freeCodeCamp - Back End Development and APIs</li>
+<li>LinkedIn Learning - React.js Essential Training</li>
+<li>LinkedIn Learning - Git Essential Training</li>
+<li>LinkedIn Learning - Angular Essential Training</li>
+<li>LinkedIn Learning - Node.js Essential Training</li>
 </ul>
