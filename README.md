@@ -1,6 +1,6 @@
 <div>
   <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=drakenevadie19&show_icons=true&theme=react"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drakenevadie19&background=6FC3D8&ring=EBD236F0&currStreakLabel=FF0F29&fire=FF0F29" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drakenevadie19&background=6FC3D8&ring=EBD236F0&currStreakLabel=FF0F29&fire=FF0F29&card_width=350" alt="GitHub Streak" /></a>
 </div>
   
 <h1>Top Skills</h1>
