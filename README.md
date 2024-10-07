@@ -12,7 +12,7 @@
 </p>
 <h1>Experience</h1>
 <ul>
-  <li>Mobile and Front-end developer  @ HSC UNT</li>
+  <li>Mobile and Front-end Engineer  @ HSC UNT</li>
   <li>Software Engineer Fellowship  @ Headstarter AI</li>
   <li>Fullstack Development Intern @ ThankUPet</li>
   <li>Computer Science && Mathematics Teacher Assistant @ TCU</li>
