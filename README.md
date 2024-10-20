@@ -3,7 +3,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drakenevadie19&background=6FC3D8&ring=EBD236F0&currStreakLabel=FF0F29&fire=FF0F29&card_width=350" alt="GitHub Streak" /></a>
 </div>
   
-<h1>Top Skills</h1>
+<h1>Programming Skills</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
