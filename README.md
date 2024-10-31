@@ -1,6 +1,7 @@
 <div>
-  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=drakenevadie19&show_icons=true&theme=react"/>
+  <a><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=drakenevadie19&show_icons=true&theme=react"/></a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drakenevadie19&background=6FC3D8&ring=EBD236F0&currStreakLabel=FF0F29&fire=FF0F29&card_width=350" alt="GitHub Streak" /></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakenevadie19&layout=donut" alt="programming language"/></a>
 </div>
   
 <h1>Programming Skills</h1>
@@ -10,6 +11,7 @@
     <img src="https://skillicons.dev/icons?i=java,ts,javascript,py,kotlin,androidstudio,git,github,nextjs,react,redux,angular,vue,vite,html,css,apollo,graphql,spring,express,firebase,mongodb,mysql,postgres,supabase,npm,nodejs,vim,linux,postman,docker,kubernetes,heroku,gcp,vercel,figma" />
   </a>
 </p>
+
 <h1>Experience</h1>
 <ul>
   <li>Mobile and Front-end Engineer  @ HSC UNT</li>
