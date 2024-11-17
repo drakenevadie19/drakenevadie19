@@ -1,5 +1,5 @@
 <div>
-  <a><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=drakenevadie19&card_height=250&show_icons=true&theme=midnight-purple"/></a>
+  <a><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=drakenevadie19&card_height=300&show_icons=true&theme=midnight-purple"/></a>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakenevadie19&layout=donut" alt="programming language"/></a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drakenevadie19&theme=transparent&fire=FF9000&dates=EB1700&currStreakLabel=6400EB" alt="GitHub Streak" /></a>
 </div>
