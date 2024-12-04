@@ -23,7 +23,7 @@
 
 <h1>Certifications</h1>
 <ul>
-<li>CodePath WEB 103 - Advance Web Development (On Progress)</li>
+<li>CodePath WEB 103 - Advance Web Development</li>
 <li>CodePath TIP 103 - Advance Technical Interview Prep</li>
 <li>JP Morgan Chase - Software Engineering Job Simulation</li>
 <li>freeCodeCamp - Back End Development and APIs</li>
