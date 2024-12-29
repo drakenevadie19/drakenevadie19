@@ -23,12 +23,14 @@
 
 <h1>Certifications</h1>
 <ul>
-<li>CodePath WEB 103 - Advance Web Development</li>
-<li>CodePath TIP 103 - Advance Technical Interview Prep</li>
-<li>JP Morgan Chase - Software Engineering Job Simulation</li>
-<li>freeCodeCamp - Back End Development and APIs</li>
-<li>LinkedIn Learning - React.js Essential Training</li>
-<li>LinkedIn Learning - Git Essential Training</li>
-<li>LinkedIn Learning - Angular Essential Training</li>
-<li>LinkedIn Learning - Node.js Essential Training</li>
+  <li>CodePath WEB 103 - Advance Web Development</li>
+  <li>CodePath TIP 103 - Advance Technical Interview Prep</li>
+  <li>JP Morgan Chase - Software Engineering Job Simulation</li>
+  <li>freeCodeCamp - Back End Development and APIs</li>
+  <li>LinkedIn Learning - Angular Essential Training</li>
+  <li>LinkedIn Learning - React.js Essential Training</li>
+  <li>LinkedIn Learning - Git Essential Training</li>
+  <li>LinkedIn Learning - Node.js Essential Training</li>
+  <li>LinkedIn Learning - Learning Docker, Kubernetes</li>
+  <li>HackerRank - Front-end Developer(React)</li>
 </ul>
