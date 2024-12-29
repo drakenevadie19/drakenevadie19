@@ -17,7 +17,7 @@
   <li>Mobile and FullStack Engineer @ HSC UNT</li>
   <li>Software Engineer Fellowship @ Headstarter AI</li>
   <li>Fullstack Development Intern @ ThankUPet</li>
-  <li>Computer Science && Mathematics Teacher Assistant @ TCU</li>
+  <li>Computer Science & Mathematics Teacher Assistant @ TCU</li>
   <li>Software Engineer Internship @ FPT Software</li>
 </ul>
 
