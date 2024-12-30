@@ -4,7 +4,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drakenevadie19&theme=transparent&fire=FF9000&dates=EB1700&currStreakLabel=6400EB" alt="GitHub Streak" /></a>
 </div>
   
-<h1>Programming Skills</h1>
+<h1>Programming Languages & Frameworks</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
