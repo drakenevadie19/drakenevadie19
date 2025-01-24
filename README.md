@@ -27,7 +27,7 @@
 
 <h3>Hosting and environment setting up technologies</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,heroku,gcp,vercel,npm,nodejs,vim,linux,postman,androidstudio,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=jenkins,aws,heroku,gcp,vercel,npm,nodejs,vim,linux,postman,androidstudio,vscode,idea" />
 </a>
 
 <h1>Experience</h1>
