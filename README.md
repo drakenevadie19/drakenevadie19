@@ -45,6 +45,7 @@
   <li>CodePath TIP 103 - Advance Technical Interview Prep</li>
   <li>JP Morgan Chase - Software Engineering Job Simulation</li>
   <li>freeCodeCamp - Back End Development and APIs</li>
+  <li>LinkedIn Learning - Apache Kafka Essential Training</li>
   <li>LinkedIn Learning - Angular Essential Training</li>
   <li>LinkedIn Learning - React.js Essential Training</li>
   <li>LinkedIn Learning - Git Essential Training</li>
