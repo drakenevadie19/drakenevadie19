@@ -39,7 +39,7 @@
   <li>Software Engineer Internship @ FPT Software</li>
 </ul>
 
-<h1>Certifications</h1>
+<h1>Bootcamps & Certifications</h1>
 <ul>
   <li>CodePath WEB 103 - Advance Web Development</li>
   <li>CodePath TIP 103 - Advance Technical Interview Prep</li>
