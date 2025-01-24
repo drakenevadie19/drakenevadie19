@@ -6,14 +6,29 @@
   
 <h1>Programming Languages & Frameworks</h1>
 <h3>Programming Languages</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,javascript,py,kotlin,c,html,css" />
-  </a>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,javascript,py,kotlin,c,nextjs,react,redux,angular,vue,vite,html,css,apollo,graphql,spring,kafka,hibernate,express,firebase,mongodb,mysql,postgres,supabase,docker,kubernetes,git,github,aws,heroku,gcp,vercel,figma,npm,nodejs,vim,linux,postman,androidstudio,vscode,idea" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,ts,javascript,py,kotlin,c,html,css" />
+</a>
+
+<h3>Front-end technologies</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,angular,vue,vite,apollo,figma,materialui,bootstrap" />
+</a>
+
+<h3>Back-end technologies</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=spring,kafka,hibernate,express,graphql,firebase,docker,kubernetes,git,github,aws,nodejs" />
+</a>
+
+<h3>Database technologies</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,aws" />
+</a>
+
+<h3>Hosting and environment setting up technologies</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,heroku,gcp,vercel,npm,nodejs,vim,linux,postman,androidstudio,vscode,idea" />
+</a>
 
 <h1>Experience</h1>
 <ul>
