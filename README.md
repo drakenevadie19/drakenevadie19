@@ -17,7 +17,7 @@
 
 <h3>Back-end technologies</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,kafka,hibernate,express,graphql,firebase,docker,kubernetes,git,github,aws,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,kafka,hibernate,express,nodejs,graphql,firebase,docker,kubernetes,git,github,aws" />
 </a>
 
 <h3>Database technologies</h3>
