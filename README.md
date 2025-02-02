@@ -1,4 +1,4 @@
-<h1>🎯 GitHub Stats</h1>
+<h1>GitHub Stats 🎯</h1>
 <div>
   <a><img alt="my stats" height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drakenevadie19&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
   <a><img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakenevadie19&layout=compact&langs_count=10" alt="programming language"/></a>
