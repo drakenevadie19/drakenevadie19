@@ -1,10 +1,5 @@
-<h1>GitHub Stats 🎯</h1>
-<div>
-  <a><img alt="my stats" height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drakenevadie19&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
-  <a><img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakenevadie19&layout=compact&langs_count=10" alt="programming language"/></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drakenevadie19&theme=transparent&fire=FF9000&dates=EB1700&currStreakLabel=6400EB" alt="GitHub Streak" /></a>
-</div>
-  
+### Hi there 👋
+<h1>Hi, My name is Thanh Nguyen (Drake) Do, a Texas-based software engineer enthusiastic! Feel free to visit and explore my Github!</h1>
 <h1>Programming Languages & Frameworks</h1>
 <h3>Programming Languages</h3>
 <a href="https://skillicons.dev">
@@ -54,3 +49,12 @@
   <li>LinkedIn Learning - Learning Docker, Kubernetes</li>
   <li>HackerRank - Front-end Developer(React)</li>
 </ul>
+
+<h1>GitHub Stats 🎯</h1>
+<div>
+  <a><img alt="my stats" height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drakenevadie19&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
+  <a><img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakenevadie19&layout=compact&langs_count=10" alt="programming language"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drakenevadie19&theme=transparent&fire=FF9000&dates=EB1700&currStreakLabel=6400EB" alt="GitHub Streak" /></a>
+</div>
+  
+
