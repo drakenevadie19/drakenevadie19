@@ -56,8 +56,6 @@ I am a **Computer Science major at Texas Christian University**, passionate abou
 
 <h1>GitHub Stats 🎯</h1>
 <div>
-  
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api?username=drakenevadie19&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true?height=210em)
   <a>
     <img alt="my stats" height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drakenevadie19&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
   <a><img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakenevadie19&layout=compact&langs_count=10" alt="programming language"/></a>
