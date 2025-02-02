@@ -1,5 +1,9 @@
-### Hi there 👋
-<p>Hi, My name is Thanh Nguyen (Drake) Do, a Texas-based software engineer enthusiastic! Feel free to visit and explore my Github!</p>
+# 👋 Hi, I'm Drake Do!
+
+🚀 **Software Engineer | Full-Stack & Mobile Developer | Cloud & DevOps Enthusiast**
+
+I am a **Computer Science major at Texas Christian University**, passionate about building **scalable, high-performance applications** that solve real-world problems. With experience in **Spring Boot, Apache Kafka, React, Next.js, and cloud technologies like AWS and Kubernetes**, I specialize in designing robust **backend architectures, microservices, and real-time data systems**.
+
 <h1>Programming Languages & Frameworks</h1>
 <h3>Programming Languages</h3>
 <a href="https://skillicons.dev">
@@ -56,5 +60,7 @@
   <a><img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakenevadie19&layout=compact&langs_count=10" alt="programming language"/></a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drakenevadie19&theme=transparent&fire=FF9000&dates=EB1700&currStreakLabel=6400EB" alt="GitHub Streak" /></a>
 </div>
-  
+
+## 📫 Connect with Me:
+🔗 [LinkedIn](https://www.linkedin.com/in/drakedo) | 💻 [Portfolio](https://thanh-nguyen-do.vercel.app/) | 📧 thanhnguyen14.gers@gmail.com  
 
