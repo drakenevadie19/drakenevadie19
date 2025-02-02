@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi, My name is Thanh Nguyen (Drake) Do, a Texas-based software engineer enthusiastic! Feel free to visit and explore my Github!</h1>
+<p>Hi, My name is Thanh Nguyen (Drake) Do, a Texas-based software engineer enthusiastic! Feel free to visit and explore my Github!</p>
 <h1>Programming Languages & Frameworks</h1>
 <h3>Programming Languages</h3>
 <a href="https://skillicons.dev">
