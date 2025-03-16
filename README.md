@@ -17,7 +17,7 @@ I am a **Computer Science major at Texas Christian University**, passionate abou
 
 <h3>Back-end technologies</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,kafka,hibernate,express,nodejs,graphql,firebase,docker,kubernetes,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=spring,kafka,hibernate,express,nodejs,graphql,firebase" />
 </a>
 
 <h3>Database technologies</h3>
@@ -25,9 +25,14 @@ I am a **Computer Science major at Texas Christian University**, passionate abou
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,aws" />
 </a>
 
-<h3>Hosting and environment setting up technologies</h3>
+<h3>DevOps and Hosting</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=jenkins,aws,heroku,gcp,vercel,npm,nodejs,vim,linux,postman,androidstudio,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,aws,heroku,gcp,vercel,githubactions" />
+</a>
+
+<h3>Package Management and IDE setting up technologies</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=npm,nodejs,vim,linux,postman,androidstudio,vscode,idea" />
 </a>
 
 <h1>Experience</h1>
