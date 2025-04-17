@@ -37,7 +37,7 @@ I am a **Computer Science major at Texas Christian University**, passionate abou
 
 <h1>Experience</h1>
 <ul>
-  <li>Mobile and FullStack Engineer @ HSC UNT</li>
+  <li>FullStack Engineer Co-op @ HSC UNT</li>
   <li>Software Engineer Fellowship @ Headstarter AI</li>
   <li>Fullstack Development Intern @ ThankUPet</li>
   <li>Computer Science & Mathematics Teacher Assistant @ TCU</li>
@@ -46,8 +46,8 @@ I am a **Computer Science major at Texas Christian University**, passionate abou
 
 <h1>Bootcamps & Certifications</h1>
 <ul>
-  <li>CodePath WEB 103 - Advance Web Development</li>
-  <li>CodePath TIP 103 - Advance Technical Interview Prep</li>
+  <li>CodePath WEB 103 - Advanced Web Development</li>
+  <li>CodePath TIP 103 - Advanced Technical Interview Prep</li>
   <li>JP Morgan Chase - Software Engineering Job Simulation</li>
   <li>freeCodeCamp - Back End Development and APIs</li>
   <li>LinkedIn Learning - Apache Kafka Essential Training</li>
